@@ -1,0 +1,15 @@
+ "basics": {[
+    "name": "Logeshwaran S",
+    "Qualification": "Diplamo in Mechanical Engineering",
+    "college":"RMPTC palappampatti",
+    "email": "logeshsmart72@gmail.com",
+    "phone": "6374309446",
+    "degree": "NIL",
+    "Native":"chinnaveerampatti",
+    "location": {
+    "address": "1/33 Chinnaveerampatti",
+    "pinCode": "62154",
+     "city": "Udumalpet",
+            ]  
+}
+    
