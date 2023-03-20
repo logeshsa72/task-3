@@ -1,3 +1,15 @@
+for:-
+The for in loop iterates over a person object
+for in:-
+The for in loop iterates over a person object
+for of:-
+for of statement loops through the values of an iterable object.
+for Each:-
+The forEach() method calls a function for each element in an array.
+
+
+
+
 RESUME:-
  "basics": {[
     "name": "Logeshwaran S",
